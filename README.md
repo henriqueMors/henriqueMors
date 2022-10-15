@@ -1,4 +1,4 @@
-### Seja bem vindo ao GitHub do Henrique Mors 😉_
+## Seja bem vindo ao GitHub do Henrique Mors 😉_
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmdesouza@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquemors)
@@ -19,7 +19,17 @@
 <img align="center" alt="SQL" SRC="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <br/>
 </div>
+<br/>
+
 <div>
 
 ### Estudando com o apoio de um 💻_
 <img align="center" alt="SQL" SRC="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white">
+
+<br>
+
+### Atualmente trabalhando ⚙️_
+Diretoria de logística da PMESP. Helpdesk (soft e hardwares), banco de dados (SQL), patrimônios, manuteção de páginas internas (HTML, CSS, JS, WORDPRESS) e tudo mais que a área de TI abrange em uma empresa normal.
+
+### Atualmente estudando 📚_
+Matriculado na Universidade São Judas, 4º Semestre de engenharia de computação, estudando programação por conta e aprendendo cada dia mais com os "perrengues" que meu trabalho me apresenta.
