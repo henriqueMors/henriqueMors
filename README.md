@@ -19,8 +19,6 @@
 <img align="center" alt="SQL" SRC="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <br/>
 </div>
-<br/>
-
 <div>
 
 ### Estudando com o apoio de um 💻_
