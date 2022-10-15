@@ -21,5 +21,11 @@
 </div>
 <br/>
 
+<div>
+
 ### Estudando com o apoio de um 💻_
 <img align="center" alt="SQL" SRC="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white">
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueMors&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
