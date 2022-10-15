@@ -1,5 +1,5 @@
 ## Seja bem vindo ao GitHub do Henrique Mors 😉_
-###### só não repare a bagunça...
+###### <i>só não repare a bagunça...</i>
 <br>
 <br>
 
@@ -22,8 +22,6 @@
 <br/>
 </div>
 <br/>
-
-<div>
 
 ### Estudando com o apoio de um 💻_
 <img align="center" alt="SQL" SRC="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white">
