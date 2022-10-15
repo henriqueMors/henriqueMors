@@ -25,7 +25,6 @@
 
 ### Estudando com o apoio de um 💻_
 <img align="center" alt="SQL" SRC="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white">
-
 <br>
 
 ### Atualmente trabalhando ⚙️_
