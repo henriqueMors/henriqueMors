@@ -24,7 +24,7 @@
 <br>
 
 ### Atualmente trabalhando ⚙️_
-Diretoria de logística da PMESP. Helpdesk (soft e hardwares), banco de dados (SQL), patrimônios, manuteção de páginas internas (HTML, CSS, JS, WORDPRESS) e tudo mais que a área de TI abrange em uma empresa normal.
+Diretoria de logística da PMESP. Helpdesk (soft e hardwares), banco de dados (SQL), patrimônios, manutenção de páginas internas (HTML, CSS, JS, WORDPRESS) e tudo mais que a área de TI abrange em uma empresa normal.
 
 ### Atualmente estudando 📚_
 Matriculado na Universidade São Judas, 4º Semestre de engenharia de computação, estudando programação por conta e aprendendo cada dia mais com os "perrengues" que meu trabalho me apresenta.
