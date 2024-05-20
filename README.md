@@ -19,4 +19,5 @@
 </div>
 <br/>
 ### Atualmente trabalhando ⚙️_
+<br/>
 ### Atualmente estudando 📚_
