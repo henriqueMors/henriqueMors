@@ -3,6 +3,8 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Henrique Mors' GitHub</h1></summary>
 </div>
+    
+---
 
 <!-- Presentation -->
 <p>
