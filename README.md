@@ -63,7 +63,7 @@ I like watching movies and series and playing my PS5! I believe that our persona
     <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/react/react-original.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/icons/react/react-original.svg">
   </div>
   
   <!-- Skills: Libraries -->
