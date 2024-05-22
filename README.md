@@ -43,6 +43,7 @@ I like watching movies and series and playing my PS5! I believe that our persona
 -->
 
 ## 🔥 Skills
+<!--https://github.com/devicons/devicon/tree/master-->
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
