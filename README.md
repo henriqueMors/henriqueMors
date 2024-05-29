@@ -32,9 +32,8 @@ I like watching movies and series and playing my PS5! I believe that our persona
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueMors&show_icons=true&theme=gotham)
 
-<!-- Portfolio 
+Portfolio 
 ## Portfolio:
--->
 
 <!-- GIF 
 <p align="left">
