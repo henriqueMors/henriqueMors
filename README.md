@@ -32,8 +32,10 @@ I like watching movies and series and playing my PS5! I believe that our persona
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueMors&show_icons=true&theme=gotham)
 
+<!--
 ## Portfolio
 - [Orientação Consultoria](https://www.orientacaoconsultoria.com.br/)
+-->
 
 <!-- GIF 
 <p align="left">
@@ -65,6 +67,7 @@ I like watching movies and series and playing my PS5! I believe that our persona
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
   </div>
   
   <!-- Skills: Libraries 
