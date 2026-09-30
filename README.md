@@ -8,18 +8,24 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Henrique! Student in the area of ​​Computer Engineering and Military in the state of São Paulo - Brazil.
+### Hi 👋, I'm Henrique!
 
-  - 🌱 I am currently studying computer engineering at São Judas University and working as a systems analyst.
+Product Owner at **Claro** (América Móvil group), based in São Paulo, Brazil.
+Former police officer who made the switch to technology, now working where business meets engineering.
 
-  - 🔭 Seeking a career change, focused on Java, MySQL and Cybersecurity.
+- 🚀 I turn business needs into clear requirements, user stories, and product value for telecom/IT teams.
+- 🧩 I work daily with **Scrum**, **Jira**, and **Confluence**, and I'm building a centralized service knowledge base.
+- 💻 Tech background in **Java**, **Python**, and **JavaScript**. I like understanding how things work under the hood.
+- 🤖 Exploring how **AI** can improve product and delivery workflows.
+- 🌎 Improving my English to work with international teams.
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/henriquemors)
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 37 years old, currently living in Brazil. I Have basic fluency in English and have experience with MYSQL, Java, JavaScript and Data Analysis. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, web development (front-end/back-end), analytical skills, data analysis, hardware and software maintenance and various assistance to users.
+  - 💬 I am 39 years old, currently living in Brazil. I Have basic fluency in English (A1) and have experience with MYSQL, Java, JavaScript and Data Analysis. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, web development (front-end/back-end), analytical skills, data analysis, hardware and software maintenance and various assistance to users.
 
   - ⚡ 
 I like watching movies and series and playing my PS5! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
